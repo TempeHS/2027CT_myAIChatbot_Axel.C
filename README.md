@@ -4,8 +4,6 @@ Simple overview of use/purpose.
 
 ## Description
 
-A simple chatbot algorithm that compiles and creates human-like text responses to user prompts/messages, using words and phrasing from pre existing word-banks and language guidelines.
-
 A simple chatbot algorithm that can create human-like text responses to user queries/prompts. The program draws on pre-existing wordbanks and language guidelines to compile responses, leading to low computing cost and fast response times at the cost of more advanced responses. Sentences that the program produces will take on a neutral and emotionless tone, so that the users get clearer answers and less frustrating emotionally biased responses.
 
 ## Getting Started
