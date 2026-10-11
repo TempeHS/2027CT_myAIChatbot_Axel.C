@@ -1,10 +1,10 @@
-# Project Title
+# AxBot 9000
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple chatbot algorithm that compiles and creates human-like text responses to user prompts/messages, using words and phrasing from pre existing word-banks and language guidelines.
 
 ## Getting Started
 
@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
+- Axel Clark
+- [Github Profile](https://github.com/TheSpiciestRamen)
 
 ## Version History
 
@@ -50,7 +50,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
